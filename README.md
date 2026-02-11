@@ -1,5 +1,5 @@
 # Personalized Diabetes Management and Behavioral Analytics Platform
-
+ 
 ## Overview  
 This project is an AI-enabled digital health platform designed to provide personalized diabetes management strategies and behavioral analytics using continuous glucose monitoring (CGM) data and user-generated data. The platform includes predictive and prescriptive analytics, seamless data integration, and compliance with healthcare regulations.
 
